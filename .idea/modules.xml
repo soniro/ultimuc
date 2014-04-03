@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ultimuc.iml" filepath="$PROJECT_DIR$/ultimuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ultimuc/ultimuc-ultimuc.iml" filepath="$PROJECT_DIR$/ultimuc/ultimuc-ultimuc.iml" />
+    </modules>
+  </component>
+</project>
+
